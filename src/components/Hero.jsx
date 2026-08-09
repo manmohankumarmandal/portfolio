@@ -1,6 +1,6 @@
 import { FaGithub, FaLinkedinIn, FaTwitter, FaInstagram } from "react-icons/fa";
 import { FiDownload } from "react-icons/fi";
-
+import profile from "../assets/manmohan.png";
 const socials = [
   { icon: FaGithub, href: "https://github.com", label: "GitHub" },
   { icon: FaLinkedinIn, href: "https://linkedin.com", label: "LinkedIn" },
@@ -67,7 +67,7 @@ export default function Hero() {
           <div className="hero-photo-wrap">
             <img
               className="hero-photo"
-              src="src/assets/manmohan.png"
+              src={profile}
               alt="Manmohan Kumar"
               onError={(e) => {
                 e.currentTarget.style.display = "none";
