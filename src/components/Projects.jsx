@@ -16,7 +16,7 @@ const projects = [
     description:
       "A MERN stack-based food ordering platform that allows users to browse menus, add items to the cart, place orders, and track order status with secure authentication.",
     image: FoodDelivery,
-    link: "#",
+    link: "https://food-frontend-wheat.vercel.app",
   },
   {
     title: "Video Conferencing website",
@@ -30,7 +30,7 @@ const projects = [
     description:
       "Clean weather UI with location search, forecasts, and responsive charts.",
     image: WeatherDashboard,
-    link: "#",
+    link: "https://weather-dashboard-virid-nu.vercel.app",
   },
 ];
 
