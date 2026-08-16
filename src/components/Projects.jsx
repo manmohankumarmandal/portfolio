@@ -9,7 +9,7 @@ const projects = [
     description:
       "CodeHub is a version control and collaboration platform used to host code repositories, track changes, manage projects, and work with teams efficiently.",
     image: CodeHub,
-    link: "#",
+    link: "https://code-hub-frontend-delta.vercel.app/",
   },
   {
     title: "Food delivery website",
@@ -23,7 +23,7 @@ const projects = [
     description:
       "Built a real-time video conferencing web application using the MERN stack, WebRTC, and Socket.IO. Implemented secure user authentication, video/audio calling, chat messaging, and meeting room management for seamless online communication.",
     image: VideoConference,
-    link: "#",
+    link: "https://zoom-frontend-lfju.vercel.app/",
   },
   {
     title: "Weather Dashboard",
